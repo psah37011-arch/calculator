@@ -1,2 +1,2 @@
 # calculator
-makin a calculator using c
+makin a calculator using python
